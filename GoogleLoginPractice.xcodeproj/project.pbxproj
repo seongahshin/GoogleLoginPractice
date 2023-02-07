@@ -11,6 +11,7 @@
 		8C5BA9FF2990BDBB00AE85CD /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 8C5BA9FE2990BDBB00AE85CD /* FirebaseFirestore */; };
 		8C5BAA012990BDBB00AE85CD /* FirebaseFirestoreCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 8C5BAA002990BDBB00AE85CD /* FirebaseFirestoreCombine-Community */; };
 		8C5BAA032990BDBB00AE85CD /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8C5BAA022990BDBB00AE85CD /* FirebaseFirestoreSwift */; };
+		8C5BAA052990CEDE00AE85CD /* MVVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5BAA042990CEDE00AE85CD /* MVVM.swift */; };
 		8C67B78E298C8C03005D3913 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B78D298C8C03005D3913 /* AppDelegate.swift */; };
 		8C67B790298C8C03005D3913 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B78F298C8C03005D3913 /* SceneDelegate.swift */; };
 		8C67B792298C8C03005D3913 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B791298C8C03005D3913 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C5BAA042990CEDE00AE85CD /* MVVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM.swift; sourceTree = "<group>"; };
 		8C67B78A298C8C03005D3913 /* GoogleLoginPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleLoginPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C67B78D298C8C03005D3913 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8C67B78F298C8C03005D3913 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				8C67B798298C8C06005D3913 /* LaunchScreen.storyboard */,
 				8C67B7A7298C8E31005D3913 /* GoogleService-Info.plist */,
 				8C67B79B298C8C06005D3913 /* Info.plist */,
+				8C5BAA042990CEDE00AE85CD /* MVVM.swift */,
 			);
 			path = GoogleLoginPractice;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				8C67B792298C8C03005D3913 /* ViewController.swift in Sources */,
 				8C67B78E298C8C03005D3913 /* AppDelegate.swift in Sources */,
 				8C67B790298C8C03005D3913 /* SceneDelegate.swift in Sources */,
+				8C5BAA052990CEDE00AE85CD /* MVVM.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -2,9 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>GIDClientID</key>
-    <string>425223537614-lchp57aqqer5opq4i2fsr74rq6jj1ff0.apps.googleusercontent.com</string>
-    <key>CFBundleURLTypes</key>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>블루투스 이용에 동의하십니까? </string>
+	<key>GIDClientID</key>
+	<string>425223537614-lchp57aqqer5opq4i2fsr74rq6jj1ff0.apps.googleusercontent.com</string>
+	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
 			<key>CFBundleTypeRole</key>
